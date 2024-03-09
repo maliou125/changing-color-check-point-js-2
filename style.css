@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    margin-top: 50px;
+  
+}
+#color-box{
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+    margin-left: 33%;   
+    
+}
+
+#change-color-btn{
+    color: rgb(235, 225, 225);
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 0 14px 8px rgba(0,0,0,5);
+    margin-left: 47%;
+    margin-top: 10px;
+    padding: 10px;
+
+}
